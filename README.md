@@ -13,7 +13,7 @@
 Результат:логин qNetayS
 
 ### Проверка наличия нужных библиотек
-
+```
 $ cmake --version
 $ curl --version
 $ git --version
@@ -24,7 +24,7 @@ $ subl --version
 $ tree --version
 $ wget --version
 $ openssl --version
-
+```
 Результат: все кроме curl не найдено
 
 ###Скачивание нужных файлов
